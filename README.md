@@ -1,2 +1,5 @@
 # Kyle-coin
-Kylecoin source code.
+Official Kylecoin source code.
+
+Download the official kylecoin logo here:
+https://imgur.com/a/KzEeh
