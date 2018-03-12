@@ -14,4 +14,4 @@
 
 bool CheckKylePowProofOfKyle(const CKylesTrapperKeeper& block, const Consensus::Params& params);  
 int64_t GetKylecoinDustFee((const std::vector<CTxOut> &vout, CFeeRate &baseFeeRate)*0); 
-int64_t MaxCoins
+int64_t MaxCoins(10000);
